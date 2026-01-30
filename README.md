@@ -10,7 +10,7 @@ A selenium based web scraper that extracts job data from 'freejobalert.com' with
 + CSV data export and error handling.
 
 ## Tech Stack
-**Language:** Python 3.9.2
+**Language:** Python 3.9.2 </br>
 **Modules:** Selenium, csv, time, sys
 
 ## How It Works
@@ -21,13 +21,14 @@ A selenium based web scraper that extracts job data from 'freejobalert.com' with
 5. Waits for element loading and try and except block for error handling is present in each block.
 
 ## Installation and Usage
-**Installation:** selenium (pip installation) and webdriver
+**Installation:** selenium (pip installation) and webdriver </br>
 **Usage:** To use run **python job_lists.py** in the terminal.
 
 ## Applications
 + Automate daily job hunting across multiple domains and save time on manual web browsing.
 + Useful in tracking job market trends and qualifications required over time.
 + It can be used to learn web scraping, error handling and data storage.
+
 ## What I Learned
 + Persistence and patience.
 + Handling dynamic websites that change on regular basis (as fixed element counts don't work).
